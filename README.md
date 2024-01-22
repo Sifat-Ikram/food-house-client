@@ -1,5 +1,5 @@
 <h1>Food House</h1>
-<h3><a href="https://food-house-client.web.app/" />Live Link</h3>
+<h3><a href="https://food-house-client.web.app" />Live Link</h3>
 
 <p>Features</p>
 <ol>
